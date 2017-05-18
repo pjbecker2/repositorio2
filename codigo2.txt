@@ -1,7 +1,7 @@
 cambios en documento 2
 linea 2
 linea 3 pjbecker2 agrega texto
-linea 4
-linea 5
+linea 4 modifico esta linea
+linea 5 tambien modifico esta otra
 linea 6 modificada por pablo
 linea 7
